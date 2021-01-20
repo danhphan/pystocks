@@ -2,6 +2,7 @@
 # Skip notebooks start with '_' and ipynb_checkpoints
 nbs/.ipynb_checkpoints
 nbs/_*.*
+**.ipynb_checkpoints
 
 # Skip data
 data
